@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+jinja2
+pydantic
+torch
+numpy
+pandas
+scipy
+python-multipart
